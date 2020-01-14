@@ -78,12 +78,19 @@ body {
 
 .text-header {
   /* font-family: Sarabun-Bold; */
+  font-weight: 600;
+  font-size: 20px;
+  color: #3A2D4B;
+  letter-spacing: 0.02px;
+  margin-left: 11.7%;
+
+  /* font-family: Sarabun-Bold;
   font-size: 22px;
   color: #3A2D4B;
   letter-spacing: 0.02px;
   margin-left: 11.7%;
   font-weight: 600;
-  padding-top: 10px;
+  padding-top: 10px; */
 }
 
 .text-login {
