@@ -26,6 +26,10 @@
             ลืมรหัสผ่าน
           </a>
         </div>
+        <div id="footer" class="row justify-content-center">
+          <img src="assets/img/power.png" class="logo-footer">
+          <span class="text-footer">©True Corporation Public Company Limited All rights reserved.</span>
+        </div>
       </div>
 
     <!-- End Container Fulid -->
